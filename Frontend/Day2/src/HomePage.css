@@ -1,0 +1,10 @@
+/* HomePage.css */
+.bod{
+  background-image:"https://img.freepik.com/free-photo/hercules-hall-surrounded-by-greenery-sunlight-daytime-munich-germany_181624-17876.jpg?w=1060&t=st=1706072704~exp=1706073304~hmac=7d99071ce4fc5c08d833345c559e2d360dc9b80181ee642fd67f04a75c65a968";
+}
+.home-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
