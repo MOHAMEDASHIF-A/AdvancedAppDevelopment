@@ -1,0 +1,16 @@
+
+  .formbodyy
+  {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to top,rgba(32,32,32,0.5)50%,rgba(38,37,37,.5)50%),url(wall2.jpg);
+    background-size: 100%;
+    margin-top: -83px;
+  }
+  /* .Reg-cont{
+    padding: 20px;
+  background-color: lightgray;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 2px 5px 10px rgb(246, 244, 244); */
+  /* } */

@@ -1,0 +1,73 @@
+/* Apply.css */
+.massive-cont{
+  background-image: linear-gradient(to top,rgba(32,32,32,0.5)50%,rgba(38,37,37,.5)50%),url("https://wallpapercave.com/wp/wp3231718.jpg");
+  /* background-position: 0%;
+  backface-visibility: visible; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 120vh;
+}
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+}
+
+.navigationBar {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.apply-container {
+  max-width: 500px;
+  margin: 0 auto;
+ 
+}
+
+.apply-heading {
+  text-align: center;
+  text-decoration:solid;
+  text-shadow:  2px 2px 5px white;
+  padding: 20px 20px 20px 20px;
+  font-weight: bolder;
+}
+
+.apply-form {
+  padding: 20px;
+  background-color: lightgray;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 2px 5px 10px rgb(246, 244, 244);
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form-input,
+.form-select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.form-button {
+  background-color: lightsteelblue;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.form-button:hover {
+  background-color: blue;
+}
