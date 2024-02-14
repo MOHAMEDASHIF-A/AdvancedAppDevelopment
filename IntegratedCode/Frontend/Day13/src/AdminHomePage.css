@@ -1,0 +1,59 @@
+/* AdminHomePage.css */
+
+.whole-admhome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: grey;
+}
+
+.adminss-home {
+  background-color: #fff;
+  border: 1px solid black;
+  padding: 100px;
+  box-shadow: 5px 5px 10px rgba(238, 236, 236, 0.822);
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.adminhomehead {
+  color: #333;
+  font-size: 2em;
+  margin-top: -2cm;
+  text-align: center;
+  padding-top: 20px;
+  text-shadow: 5px 3px 5px black;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  /* font-style:oblique; */
+
+}
+
+.statistics {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.stat-card {
+  background-color: #3498db;
+  color: white;
+  padding: 15px ;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-size: 1.2em;
+}
+
+.stat-card:hover {
+  background-color: black;
+}
+
+/* Additional styling for the Link */
+.stat-card-link {
+  text-decoration: none;
+  color: inherit;
+}
